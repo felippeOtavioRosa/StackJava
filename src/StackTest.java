@@ -1,8 +1,8 @@
 public class StackTest {
     public static void main(String[] args) {
-        Stack s = new Stack();
+        StackObject s = new StackObject();
 
-        s.push(125);
+         s.push(125);
         s.push(555);
         s.push(677);
         s.push(654);
